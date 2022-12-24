@@ -26,9 +26,9 @@ https://tetiana-v-kovalenko.github.io/test-case-goit/
 - NPM
 
 ## Візуалізація готової картки
-
+* Вигляд картки в неактивному стані
 ![Готова картка](./src/images/Screenshot_1.png)
-
+* Вигляд Картки в активному стані
 ![Готова картка](./src/images/Screenshot_3.png)
 
 ## Додаткове завдання
